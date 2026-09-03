@@ -1,0 +1,102 @@
+about:
+  description: 🔥 A cross-platform build utility based on Lua
+  license: Apache-2.0
+  homepage: https://xmake.io
+  head: c1a32b8
+  archived: false
+  latestVersion: v3.1.1
+  collectedAt: 2026-09-03T05:08:41Z
+timeline:
+  created: 2015-04-23
+  lastCommit: 2026-09-03
+  lastRelease: 2026-08-27
+popularity:
+  star: 12185
+  watcher: 134
+  fork: 947
+  release: 91
+  contributor: 262
+  pullRequest: 251
+  issue: 4060
+language:
+  Lua: 6433588
+  C: 4828091
+  C++: 1127726
+  Xmake: 879366
+  Shell: 46415
+  Perl: 44723
+  Objective-C: 40822
+  Assembly: 29625
+  Cuda: 20679
+  Euphoria: 16370
+  PowerShell: 14666
+  Roff: 12363
+  NSIS: 11080
+  CMake: 8972
+  Python: 7347
+  Linker Script: 7262
+  Swift: 5748
+  Batchfile: 5653
+  Vala: 4388
+  Nim: 3502
+  Makefile: 2739
+  C#: 2338
+  Metal: 2037
+  Yacc: 2015
+  VBScript: 1989
+  D: 1965
+  Zig: 1745
+  Rust: 1612
+  Smarty: 1446
+  Elixir: 1374
+  QML: 1319
+  AGS Script: 1296
+  Fortran: 1272
+  Objective-C++: 1250
+  SWIG: 1223
+  Kotlin: 1078
+  HLSL: 1034
+  Pascal: 958
+  Go: 817
+  Verilog: 708
+  Lex: 466
+  Meson: 254
+  M: 252
+  GLSL: 224
+  Cap'n Proto: 129
+  R: 92
+  ISPC: 26
+totalLine: 13580044
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 2
+    mergedPR: 25
+    openPR: 4
+    closedIssue: 15
+    openIssue: 5
+    commit: 124
+  last90d:
+    since: 2026-06-05
+    release: 2
+    mergedPR: 69
+    openPR: 5
+    closedIssue: 42
+    openIssue: 15
+    commit: 292
+  last180d:
+    since: 2026-03-07
+    release: 4
+    mergedPR: 146
+    openPR: 8
+    closedIssue: 110
+    openIssue: 25
+    commit: 638
+  last360d:
+    since: 2025-09-08
+    release: 9
+    mergedPR: 401
+    openPR: 9
+    closedIssue: 301
+    openIssue: 57
+    commit: 2413
