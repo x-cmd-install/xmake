@@ -7,7 +7,7 @@ about:
   head: 5a59648
   archived: false
   latestVersion: v3.1.1
-  collectedAt: 2026-09-04T20:06:39Z
+  collectedAt: 2026-09-04T20:45:29Z
 timeline:
   created: 2015-04-23
   lastCommit: 2026-09-04
@@ -127,7 +127,7 @@ total:
   commit: 18858
 ---
 path: /home/runner/.x-repo/github.com/xmake-io/xmake
-collectedAt: 2026-09-04T20:06:42Z
+collectedAt: 2026-09-04T20:45:33Z
 loc:
   Lua:
     code: 135331
