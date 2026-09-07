@@ -5,13 +5,13 @@ about:
   head: ce68fff
   archived: false
   latestVersion: "v3.1.1"
-  collectedAt: 2026-09-07T06:05:06Z
+  collectedAt: 2026-09-07T18:29:48Z
 timeline:
   created: 2015-04-23
   lastCommit: 2026-09-06
   lastRelease: 2026-08-27
 popularity:
-  star: 12201
+  star: 12202
   watcher: 135
   fork: 950
   release: 91
@@ -73,59 +73,59 @@ recent:
     release: 2
     mergedPR: 24
     openPR: 3
-    closedIssue: 12
-    openIssue: 6
+    closedIssue: 13
+    openIssue: 5
     commit: 97
   last60d:
     since: 2026-07-09
     release: 2
     mergedPR: 50
     openPR: 4
-    closedIssue: 29
-    openIssue: 10
+    closedIssue: 30
+    openIssue: 9
     commit: 211
   last90d:
     since: 2026-06-09
     release: 2
     mergedPR: 73
     openPR: 4
-    closedIssue: 41
-    openIssue: 15
+    closedIssue: 42
+    openIssue: 14
     commit: 289
   last180d:
     since: 2026-03-11
     release: 4
     mergedPR: 147
     openPR: 7
-    closedIssue: 109
-    openIssue: 24
+    closedIssue: 110
+    openIssue: 23
     commit: 601
   last360d:
     since: 2025-09-12
     release: 9
     mergedPR: 396
     openPR: 8
-    closedIssue: 297
-    openIssue: 55
+    closedIssue: 298
+    openIssue: 54
     commit: 2368
   last720d:
     since: 2024-09-17
     release: 16
     mergedPR: 738
     openPR: 11
-    closedIssue: 739
-    openIssue: 128
+    closedIssue: 740
+    openIssue: 127
     commit: 4185
 total:
   release: 91
   mergedPR: 1987
   openPR: 11
-  closedIssue: 3822
-  openIssue: 239
+  closedIssue: 3823
+  openIssue: 238
   commit: 18865
 ---
 path: /home/runner/.x-repo/github.com/xmake-io/xmake
-collectedAt: 2026-09-07T06:05:14Z
+collectedAt: 2026-09-07T18:29:55Z
 loc:
   Lua:
     code: 135376
@@ -630,7 +630,7 @@ checks:
       - 'Warn: 0 commits out of 22 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T06:05:15+00:00
+  collectedAt: 2026-09-07T18:29:56+00:00
   platform:
     darwin/arm64:
       name:  xmake-bundle-v3.1.1.macos.arm64
