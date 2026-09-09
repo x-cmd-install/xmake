@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.1.1"
   latestRelease: "v3.1.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:07:52Z
+  collectedAt: 2026-09-09T20:38:15Z
 timeline:
   created: 2015-04-23
   lastCommit: 2026-09-06
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-27
   lastPrerelease: 
 popularity:
-  star: 12204
+  star: 12208
   watcher: 135
-  fork: 950
+  fork: 951
   release: 91
   contributor: 264
-  pullRequest: 2241
+  pullRequest: 2242
   issue: 4062
 language:
   Lua: 6444961
@@ -76,7 +76,7 @@ recent:
     since: 2026-08-10
     release: 1
     mergedPR: 23
-    openPR: 4
+    openPR: 5
     closedIssue: 13
     openIssue: 6
     commit: 97
@@ -84,7 +84,7 @@ recent:
     since: 2026-07-11
     release: 2
     mergedPR: 48
-    openPR: 5
+    openPR: 6
     closedIssue: 30
     openIssue: 10
     commit: 211
@@ -92,7 +92,7 @@ recent:
     since: 2026-06-11
     release: 2
     mergedPR: 69
-    openPR: 5
+    openPR: 6
     closedIssue: 40
     openIssue: 14
     commit: 289
@@ -100,7 +100,7 @@ recent:
     since: 2026-03-13
     release: 4
     mergedPR: 141
-    openPR: 7
+    openPR: 8
     closedIssue: 108
     openIssue: 24
     commit: 601
@@ -108,7 +108,7 @@ recent:
     since: 2025-09-14
     release: 9
     mergedPR: 394
-    openPR: 9
+    openPR: 10
     closedIssue: 293
     openIssue: 55
     commit: 2368
@@ -116,20 +116,20 @@ recent:
     since: 2024-09-19
     release: 16
     mergedPR: 734
-    openPR: 12
+    openPR: 13
     closedIssue: 738
     openIssue: 128
     commit: 4175
 total:
   release: 91
   mergedPR: 1987
-  openPR: 12
+  openPR: 13
   closedIssue: 3823
   openIssue: 239
   commit: 18865
 ---
 path: /home/runner/.x-repo/github.com/xmake-io/xmake
-collectedAt: 2026-09-09T06:08:06Z
+collectedAt: 2026-09-09T20:38:25Z
 loc:
   Lua:
     code: 135376
