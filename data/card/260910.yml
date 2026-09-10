@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.1.1"
   latestRelease: "v3.1.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:10:24Z
+  collectedAt: 2026-09-10T23:48:47Z
 timeline:
   created: 2015-04-23
   lastCommit: 2026-09-06
@@ -129,7 +129,7 @@ total:
   commit: 18865
 ---
 path: /home/runner/.x-repo/github.com/xmake-io/xmake
-collectedAt: 2026-09-10T18:10:32Z
+collectedAt: 2026-09-10T23:48:57Z
 loc:
   Lua:
     code: 135376

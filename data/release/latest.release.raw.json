@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3209216,
       "digest": "sha256:f41f941cb1b13ad60086eb65a74460225924cd3252e8bee530212f157a1bfbe0",
-      "download_count": 165,
+      "download_count": 166,
       "created_at": "2026-08-27T01:44:32Z",
       "updated_at": "2026-08-27T01:44:32Z",
       "browser_download_url": "https://github.com/xmake-io/xmake/releases/download/v3.1.1/xmake-bundle-v3.1.1.arm64.exe"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2830624,
       "digest": "sha256:fe1da8861a5ee5845d4f6c84e499f6f9c6bf5b5a69c9b7b130930ee28355a6d5",
-      "download_count": 888,
+      "download_count": 897,
       "created_at": "2026-08-27T02:20:27Z",
       "updated_at": "2026-08-27T02:20:27Z",
       "browser_download_url": "https://github.com/xmake-io/xmake/releases/download/v3.1.1/xmake-bundle-v3.1.1.linux.x86_64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3216384,
       "digest": "sha256:5de3d5167a8b5e8ad95af2fba9ab5a62a626d7e789350d0affc33af450c4a9ad",
-      "download_count": 706,
+      "download_count": 708,
       "created_at": "2026-08-27T02:42:53Z",
       "updated_at": "2026-08-27T02:42:54Z",
       "browser_download_url": "https://github.com/xmake-io/xmake/releases/download/v3.1.1/xmake-bundle-v3.1.1.win64.exe"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 4054109,
       "digest": "sha256:f16ec0a003d634ec5b026873fd35da65d970ef49aac8073d521977b527d4e848",
-      "download_count": 2870,
+      "download_count": 2954,
       "created_at": "2026-09-06T15:48:10Z",
       "updated_at": "2026-09-06T15:48:10Z",
       "browser_download_url": "https://github.com/xmake-io/xmake/releases/download/v3.1.1/xmake-dev.win64.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3647515,
       "digest": "sha256:3e8a970a1e06e3a99f951fc61f3f70f9430f752027c8b6849406d2f9623f0b9d",
-      "download_count": 385,
+      "download_count": 393,
       "created_at": "2026-09-06T07:43:53Z",
       "updated_at": "2026-09-06T07:43:54Z",
       "browser_download_url": "https://github.com/xmake-io/xmake/releases/download/v3.1.1/xmake-master.arm64.exe"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 4053735,
       "digest": "sha256:f0b96091fad1283c80263a76c101e4c7ff9677b1cd388e5edb5dd715401294e0",
-      "download_count": 1082,
+      "download_count": 1100,
       "created_at": "2026-09-06T08:40:49Z",
       "updated_at": "2026-09-06T08:40:50Z",
       "browser_download_url": "https://github.com/xmake-io/xmake/releases/download/v3.1.1/xmake-master.win64.exe"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 3316093,
       "digest": "sha256:166b91a3127076daae22e860adcdc9bc89afe0ef63ea09bfc37786760fb83c3e",
-      "download_count": 2452,
+      "download_count": 2487,
       "created_at": "2026-08-27T01:47:30Z",
       "updated_at": "2026-08-27T01:47:31Z",
       "browser_download_url": "https://github.com/xmake-io/xmake/releases/download/v3.1.1/xmake-v3.1.1.gz.run"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 3345595,
       "digest": "sha256:e67e6692bdf8fcb10cdb2cc78c0e8f0ae6c86ad3e3fc532880feca49eefb74b8",
-      "download_count": 909,
+      "download_count": 919,
       "created_at": "2026-08-27T01:47:31Z",
       "updated_at": "2026-08-27T01:47:32Z",
       "browser_download_url": "https://github.com/xmake-io/xmake/releases/download/v3.1.1/xmake-v3.1.1.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 4053240,
       "digest": "sha256:8df50f2884111ff874d290e61e1a26d2117e498f626fb1c6985545e2e4abab35",
-      "download_count": 13664,
+      "download_count": 13757,
       "created_at": "2026-08-27T02:42:49Z",
       "updated_at": "2026-08-27T02:42:50Z",
       "browser_download_url": "https://github.com/xmake-io/xmake/releases/download/v3.1.1/xmake-v3.1.1.win64.exe"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 6163696,
       "digest": "sha256:33fdf2f34a0e45fa731c000d59590d27b13dec7011f69cbf575004ed9279b4a2",
-      "download_count": 953,
+      "download_count": 954,
       "created_at": "2026-08-27T02:42:51Z",
       "updated_at": "2026-08-27T02:42:52Z",
       "browser_download_url": "https://github.com/xmake-io/xmake/releases/download/v3.1.1/xmake-v3.1.1.win64.zip"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 6076403,
       "digest": "sha256:7cb2ca42c14e52b533db1189fdfda84b4330937590c773ed5f0f72900d818c98",
-      "download_count": 80,
+      "download_count": 81,
       "created_at": "2026-08-27T01:47:32Z",
       "updated_at": "2026-08-27T01:47:33Z",
       "browser_download_url": "https://github.com/xmake-io/xmake/releases/download/v3.1.1/xmake-v3.1.1.zip"
