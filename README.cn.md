@@ -1,62 +1,62 @@
 # xmake
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 🔥 A cross-platform build utility based on Lua
 
-![xmake](https://repo.x-cmd.io/xmake.svg)
+![xmake](https://repo.x-cmd.io/xmake.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install xmake
 ```
 
-## Code insight
+## 代码洞察
 
-Total: **254,518** lines of code across **3493** files in the top 5 languages.
+合计: **254,518** 行代码（覆盖前 5 种语言、共 **3493** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Lua | 135,376 | 62,185 | 22,725 | 2396 |
 | C | 54,877 | 27,531 | 15,959 | 456 |
 | CHeader | 40,743 | 15,285 | 7,745 | 285 |
 | Cpp | 6,031 | 1,257 | 1,274 | 339 |
 | Sh | 5,272 | 631 | 527 | 17 |
 
-## OpenSSF Scorecard
+## OpenSSF Scorecard 评分
 
-Overall score: **4 / 10**
+总评分: **4 / 10**
 
-Lowest-scoring checks:
+评分最低的几项:
 
 - **Code-Review** (3/10) — Found 6/18 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/xmake-io/xmake>
-- **Homepage**: <https://xmake.io>
-- **License**: Apache-2.0
+- **上游仓库**: <https://github.com/xmake-io/xmake>
+- **官网**: <https://xmake.io>
+- **许可证**: Apache-2.0
 
-## Release
+## 发布
 
-- **Latest**: `v3.1.1` (2026-08-27)
-- **Last commit**: 2026-09-06
-- **Assets in release**: 30
+- **最新版本**: `v3.1.1` (2026-08-27)
+- **最近提交**: 2026-09-06
+- **Release 含资产**: 30 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 12,213 · **Forks**: 950 · **Open issues**: 4,062 · **Contributors**: 264
+- **Star**: 12,213 · **Fork**: 950 · **开放 issue**: 4,062 · **贡献者**: 264
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 91 · **Merged PRs**: 1987 · **Open PRs**: 14 · **Closed issues**: 3823 · **Open issues**: 239 · **Commits**: 18865
+- **发布数**: 91 · **已合并 PR**: 1987 · **开放 PR**: 14 · **已关闭 issue**: 3823 · **开放 issue**: 239 · **提交数**: 18865
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 23 | 6 | 13 | 6 | 97 |
 | last60d | 2026-07-12 | 2 | 47 | 7 | 30 | 10 | 211 |
@@ -65,10 +65,10 @@ Lowest-scoring checks:
 | 360d | 2025-09-15 | 9 | 391 | 11 | 293 | 55 | 2368 |
 | last720d | 2024-09-20 | 16 | 733 | 14 | 737 | 128 | 4175 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [xmake-bundle-v3.1.1.arm64.exe](https://github.com/xmake-io/xmake/releases/download/v3.1.1/xmake-bundle-v3.1.1.arm64.exe) | 3.1 MiB | `other` |
 | [xmake-bundle-v3.1.1.cosmocc](https://github.com/xmake-io/xmake/releases/download/v3.1.1/xmake-bundle-v3.1.1.cosmocc) | 6.7 MiB | `other` |
 | [xmake-bundle-v3.1.1.linux.x86_64](https://github.com/xmake-io/xmake/releases/download/v3.1.1/xmake-bundle-v3.1.1.linux.x86_64) | 2.7 MiB | `native/linux/x64` |
@@ -100,13 +100,13 @@ Lowest-scoring checks:
 | [xmake-v3.1.1.win64.zip](https://github.com/xmake-io/xmake/releases/download/v3.1.1/xmake-v3.1.1.win64.zip) | 5.9 MiB | `native/win/x64` |
 | [xmake-v3.1.1.zip](https://github.com/xmake-io/xmake/releases/download/v3.1.1/xmake-v3.1.1.zip) | 5.8 MiB | `other` |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for xmake lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `xmake` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+xmake 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `xmake` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/xmake.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/xmake.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:49:06Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:49:07Z._
