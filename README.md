@@ -14,11 +14,11 @@ x install xmake
 
 ## Code insight
 
-Total: **254,518** lines of code across **3493** files in the top 5 languages.
+Total: **254,570** lines of code across **3494** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Lua | 135,376 | 62,185 | 22,725 | 2396 |
+| Lua | 135,398 | 62,185 | 22,726 | 2397 |
 | C | 54,877 | 27,531 | 15,959 | 456 |
 | CHeader | 40,743 | 15,285 | 7,745 | 285 |
 | Cpp | 6,031 | 1,257 | 1,274 | 339 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.1.1` (2026-08-27)
-- **Last commit**: 2026-09-06
+- **Last commit**: 2026-09-10
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 12,213 · **Forks**: 950 · **Open issues**: 4,062 · **Contributors**: 264
+- **Stars**: 12,214 · **Forks**: 950 · **Open issues**: 4,062 · **Contributors**: 265
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 1987 · **Open PRs**: 14 · **Closed issues**: 3823 · **Open issues**: 239 · **Commits**: 18865
+- **Releases**: 91 · **Merged PRs**: 1988 · **Open PRs**: 13 · **Closed issues**: 3823 · **Open issues**: 239 · **Commits**: 18869
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 23 | 6 | 13 | 6 | 97 |
-| last60d | 2026-07-12 | 2 | 47 | 7 | 30 | 10 | 211 |
-| 90d | 2026-06-12 | 2 | 68 | 7 | 40 | 14 | 289 |
-| last180d | 2026-03-14 | 4 | 141 | 9 | 107 | 24 | 601 |
-| 360d | 2025-09-15 | 9 | 391 | 11 | 293 | 55 | 2368 |
-| last720d | 2024-09-20 | 16 | 733 | 14 | 737 | 128 | 4175 |
+| 30d | 2026-08-12 | 1 | 23 | 5 | 12 | 6 | 101 |
+| last60d | 2026-07-13 | 2 | 48 | 6 | 30 | 10 | 215 |
+| 90d | 2026-06-13 | 2 | 69 | 6 | 40 | 14 | 293 |
+| last180d | 2026-03-15 | 4 | 142 | 8 | 107 | 24 | 605 |
+| 360d | 2025-09-16 | 9 | 389 | 10 | 291 | 55 | 2372 |
+| last720d | 2024-09-21 | 16 | 733 | 13 | 737 | 128 | 4176 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for xmake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:49:06Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:03:25Z._
