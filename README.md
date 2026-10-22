@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.1.2` (2026-10-16)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-21
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 12,267 · **Forks**: 964 · **Open issues**: 4,096 · **Contributors**: 276
+- **Stars**: 12,265 · **Forks**: 965 · **Open issues**: 4,097 · **Contributors**: 276
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 2030 · **Open PRs**: 16 · **Closed issues**: 3843 · **Open issues**: 253 · **Commits**: 18996
+- **Releases**: 92 · **Merged PRs**: 2030 · **Open PRs**: 18 · **Closed issues**: 3843 · **Open issues**: 254 · **Commits**: 18997
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 27 | 7 | 5 | 7 | 75 |
-| last60d | 2026-08-22 | 2 | 51 | 7 | 20 | 14 | 153 |
-| 90d | 2026-07-23 | 3 | 84 | 9 | 36 | 20 | 308 |
-| last180d | 2026-04-24 | 4 | 142 | 11 | 89 | 31 | 506 |
-| 360d | 2025-10-26 | 8 | 368 | 13 | 262 | 59 | 2153 |
-| last720d | 2024-10-31 | 16 | 746 | 16 | 705 | 130 | 4146 |
+| 30d | 2026-09-22 | 1 | 25 | 9 | 5 | 8 | 76 |
+| last60d | 2026-08-23 | 2 | 50 | 9 | 18 | 15 | 154 |
+| 90d | 2026-07-24 | 3 | 83 | 11 | 35 | 20 | 309 |
+| last180d | 2026-04-25 | 4 | 142 | 13 | 89 | 32 | 507 |
+| 360d | 2025-10-27 | 8 | 367 | 15 | 260 | 60 | 2154 |
+| last720d | 2024-11-01 | 16 | 746 | 18 | 703 | 131 | 4146 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for xmake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:46:56Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:51:55Z._
