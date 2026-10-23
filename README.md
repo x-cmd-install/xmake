@@ -14,14 +14,14 @@ x install xmake
 
 ## Code insight
 
-Total: **256,012** lines of code across **3549** files in the top 5 languages.
+Total: **256,022** lines of code across **3552** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Lua | 136,817 | 62,396 | 22,863 | 2443 |
+| Lua | 136,823 | 62,396 | 22,864 | 2445 |
 | C | 54,917 | 27,531 | 15,967 | 462 |
 | CHeader | 40,746 | 15,285 | 7,746 | 287 |
-| Cpp | 6,037 | 1,257 | 1,276 | 340 |
+| Cpp | 6,041 | 1,257 | 1,277 | 341 |
 | Sh | 5,246 | 631 | 525 | 17 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.1.2` (2026-10-16)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 12,265 · **Forks**: 965 · **Open issues**: 4,097 · **Contributors**: 276
+- **Stars**: 12,264 · **Forks**: 965 · **Open issues**: 4,097 · **Contributors**: 277
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 2030 · **Open PRs**: 18 · **Closed issues**: 3843 · **Open issues**: 254 · **Commits**: 18997
+- **Releases**: 92 · **Merged PRs**: 2031 · **Open PRs**: 19 · **Closed issues**: 3844 · **Open issues**: 253 · **Commits**: 19000
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 25 | 9 | 5 | 8 | 76 |
-| last60d | 2026-08-23 | 2 | 50 | 9 | 18 | 15 | 154 |
-| 90d | 2026-07-24 | 3 | 83 | 11 | 35 | 20 | 309 |
-| last180d | 2026-04-25 | 4 | 142 | 13 | 89 | 32 | 507 |
-| 360d | 2025-10-27 | 8 | 367 | 15 | 260 | 60 | 2154 |
-| last720d | 2024-11-01 | 16 | 746 | 18 | 703 | 131 | 4146 |
+| 30d | 2026-09-23 | 1 | 26 | 10 | 5 | 7 | 79 |
+| last60d | 2026-08-24 | 2 | 51 | 10 | 19 | 14 | 157 |
+| 90d | 2026-07-25 | 3 | 84 | 12 | 36 | 19 | 312 |
+| last180d | 2026-04-26 | 4 | 143 | 14 | 90 | 31 | 510 |
+| 360d | 2025-10-28 | 8 | 367 | 16 | 259 | 59 | 2157 |
+| last720d | 2024-11-02 | 16 | 745 | 19 | 704 | 130 | 4149 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for xmake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:51:55Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:50:54Z._
