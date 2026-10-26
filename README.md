@@ -14,11 +14,11 @@ x install xmake
 
 ## Code insight
 
-Total: **256,094** lines of code across **3558** files in the top 5 languages.
+Total: **257,226** lines of code across **3574** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Lua | 136,887 | 62,401 | 22,870 | 2449 |
+| Lua | 138,019 | 63,044 | 23,066 | 2465 |
 | C | 54,917 | 27,531 | 15,967 | 462 |
 | CHeader | 40,746 | 15,285 | 7,746 | 287 |
 | Cpp | 6,049 | 1,257 | 1,279 | 343 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,272 · **Forks**: 965 · **Open issues**: 4,097 · **Contributors**: 277
+- **Stars**: 12,274 · **Forks**: 965 · **Open issues**: 4,098 · **Contributors**: 277
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 2033 · **Open PRs**: 17 · **Closed issues**: 3844 · **Open issues**: 253 · **Commits**: 19005
+- **Releases**: 92 · **Merged PRs**: 2034 · **Open PRs**: 19 · **Closed issues**: 3845 · **Open issues**: 253 · **Commits**: 19007
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 28 | 8 | 5 | 7 | 57 |
-| last60d | 2026-08-26 | 2 | 52 | 8 | 18 | 14 | 150 |
-| 90d | 2026-07-27 | 3 | 84 | 10 | 34 | 19 | 286 |
-| last180d | 2026-04-28 | 4 | 144 | 12 | 88 | 29 | 498 |
-| 360d | 2025-10-30 | 8 | 368 | 14 | 259 | 59 | 2105 |
-| last720d | 2024-11-04 | 16 | 745 | 17 | 702 | 129 | 4150 |
+| 30d | 2026-09-26 | 1 | 29 | 10 | 5 | 6 | 59 |
+| last60d | 2026-08-27 | 2 | 53 | 10 | 17 | 14 | 152 |
+| 90d | 2026-07-28 | 3 | 84 | 12 | 35 | 19 | 288 |
+| last180d | 2026-04-29 | 4 | 143 | 14 | 88 | 29 | 500 |
+| 360d | 2025-10-31 | 8 | 369 | 16 | 258 | 58 | 2107 |
+| last720d | 2024-11-05 | 16 | 746 | 19 | 703 | 129 | 4146 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for xmake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:39:13Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:49:55Z._
