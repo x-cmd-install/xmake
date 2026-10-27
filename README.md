@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,274 · **Forks**: 965 · **Open issues**: 4,098 · **Contributors**: 277
+- **Stars**: 12,277 · **Forks**: 966 · **Open issues**: 4,100 · **Contributors**: 277
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 2034 · **Open PRs**: 19 · **Closed issues**: 3845 · **Open issues**: 253 · **Commits**: 19007
+- **Releases**: 92 · **Merged PRs**: 2034 · **Open PRs**: 20 · **Closed issues**: 3845 · **Open issues**: 255 · **Commits**: 19007
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 29 | 10 | 5 | 6 | 59 |
-| last60d | 2026-08-27 | 2 | 53 | 10 | 17 | 14 | 152 |
-| 90d | 2026-07-28 | 3 | 84 | 12 | 35 | 19 | 288 |
-| last180d | 2026-04-29 | 4 | 143 | 14 | 88 | 29 | 500 |
-| 360d | 2025-10-31 | 8 | 369 | 16 | 258 | 58 | 2107 |
-| last720d | 2024-11-05 | 16 | 746 | 19 | 703 | 129 | 4146 |
+| 30d | 2026-09-27 | 1 | 28 | 11 | 5 | 8 | 59 |
+| last60d | 2026-08-28 | 1 | 53 | 11 | 17 | 16 | 152 |
+| 90d | 2026-07-29 | 3 | 82 | 13 | 33 | 19 | 288 |
+| last180d | 2026-04-30 | 4 | 142 | 15 | 87 | 30 | 500 |
+| 360d | 2025-11-01 | 8 | 368 | 17 | 257 | 60 | 2107 |
+| last720d | 2024-11-06 | 16 | 746 | 20 | 699 | 131 | 4145 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for xmake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:49:55Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:11:57Z._
