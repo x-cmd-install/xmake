@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 21 | 8 | 4 | 7 | 61 |
-| last60d | 2026-09-05 | 1 | 55 | 9 | 16 | 16 | 157 |
-| 90d | 2026-08-06 | 3 | 81 | 10 | 31 | 20 | 273 |
-| last180d | 2026-05-08 | 4 | 144 | 13 | 82 | 31 | 502 |
-| 360d | 2025-11-09 | 8 | 364 | 15 | 251 | 59 | 2062 |
-| last720d | 2024-11-14 | 16 | 748 | 18 | 683 | 129 | 4145 |
+| 30d | 2026-10-06 | 1 | 21 | 7 | 4 | 7 | 61 |
+| last60d | 2026-09-06 | 1 | 55 | 9 | 15 | 16 | 157 |
+| 90d | 2026-08-07 | 3 | 81 | 10 | 31 | 20 | 273 |
+| last180d | 2026-05-09 | 4 | 143 | 13 | 82 | 31 | 502 |
+| 360d | 2025-11-10 | 8 | 362 | 14 | 249 | 59 | 2062 |
+| last720d | 2024-11-15 | 16 | 747 | 18 | 679 | 128 | 4140 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for xmake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:43:24Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:55:15Z._
