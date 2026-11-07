@@ -14,11 +14,11 @@ x install xmake
 
 ## Code insight
 
-Total: **258,098** lines of code across **3608** files in the top 5 languages.
+Total: **258,093** lines of code across **3608** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Lua | 138,685 | 63,453 | 23,157 | 2485 |
+| Lua | 138,680 | 63,451 | 23,157 | 2485 |
 | C | 54,926 | 27,532 | 15,967 | 462 |
 | CHeader | 40,756 | 15,285 | 7,746 | 292 |
 | Cpp | 6,107 | 1,257 | 1,286 | 352 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,289 · **Forks**: 965 · **Open issues**: 4,103 · **Contributors**: 277
+- **Stars**: 12,291 · **Forks**: 964 · **Open issues**: 4,104 · **Contributors**: 278
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 2045 · **Open PRs**: 18 · **Closed issues**: 3847 · **Open issues**: 256 · **Commits**: 19036
+- **Releases**: 92 · **Merged PRs**: 2046 · **Open PRs**: 18 · **Closed issues**: 3847 · **Open issues**: 257 · **Commits**: 19038
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 24 | 7 | 5 | 7 | 69 |
-| last60d | 2026-09-07 | 1 | 58 | 9 | 16 | 16 | 165 |
-| 90d | 2026-08-08 | 3 | 82 | 10 | 30 | 20 | 281 |
-| last180d | 2026-05-10 | 4 | 146 | 13 | 83 | 31 | 510 |
-| 360d | 2025-11-11 | 8 | 365 | 14 | 249 | 59 | 2070 |
-| last720d | 2024-11-16 | 16 | 749 | 18 | 680 | 128 | 4139 |
+| 30d | 2026-10-08 | 1 | 25 | 7 | 4 | 8 | 71 |
+| last60d | 2026-09-08 | 1 | 57 | 9 | 16 | 16 | 167 |
+| 90d | 2026-08-09 | 2 | 82 | 10 | 30 | 21 | 283 |
+| last180d | 2026-05-11 | 4 | 145 | 13 | 82 | 32 | 512 |
+| 360d | 2025-11-12 | 8 | 362 | 14 | 249 | 59 | 2072 |
+| last720d | 2024-11-17 | 16 | 750 | 18 | 678 | 129 | 4139 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for xmake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:51:29Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:05:02Z._
