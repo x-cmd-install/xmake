@@ -14,11 +14,11 @@ x install xmake
 
 ## 代码洞察
 
-合计: **258,974** 行代码（覆盖前 5 种语言、共 **3616** 个文件）。
+合计: **259,203** 行代码（覆盖前 5 种语言、共 **3621** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Lua | 139,515 | 63,692 | 23,243 | 2492 |
+| Lua | 139,744 | 63,670 | 23,235 | 2497 |
 | C | 54,926 | 27,532 | 15,967 | 462 |
 | CHeader | 40,756 | 15,285 | 7,746 | 292 |
 | Cpp | 6,116 | 1,259 | 1,288 | 353 |
@@ -43,27 +43,27 @@ x install xmake
 ## 发布
 
 - **最新版本**: `v3.1.2` (2026-10-16)
-- **最近提交**: 2026-11-13
+- **最近提交**: 2026-11-14
 - **Release 含资产**: 30 个
 
 ## 流行度
 
-- **Star**: 12,303 · **Fork**: 965 · **开放 issue**: 4,107 · **贡献者**: 279
+- **Star**: 12,302 · **Fork**: 965 · **开放 issue**: 4,107 · **贡献者**: 279
 
 ## 累计统计
 
-- **发布数**: 92 · **已合并 PR**: 2057 · **开放 PR**: 16 · **已关闭 issue**: 3849 · **开放 issue**: 258 · **提交数**: 19066
+- **发布数**: 92 · **已合并 PR**: 2058 · **开放 PR**: 16 · **已关闭 issue**: 3850 · **开放 issue**: 257 · **提交数**: 19073
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 28 | 4 | 6 | 8 | 75 |
-| last60d | 2026-09-15 | 1 | 61 | 8 | 17 | 16 | 166 |
-| 90d | 2026-08-16 | 2 | 84 | 8 | 29 | 22 | 245 |
-| last180d | 2026-05-18 | 4 | 153 | 11 | 78 | 32 | 526 |
-| 360d | 2025-11-19 | 8 | 359 | 12 | 248 | 59 | 2034 |
-| last720d | 2024-11-24 | 16 | 748 | 16 | 666 | 127 | 4115 |
+| 30d | 2026-10-16 | 1 | 28 | 4 | 7 | 7 | 66 |
+| last60d | 2026-09-16 | 1 | 61 | 8 | 18 | 14 | 148 |
+| 90d | 2026-08-17 | 2 | 85 | 8 | 29 | 21 | 226 |
+| last180d | 2026-05-19 | 4 | 154 | 11 | 78 | 31 | 523 |
+| 360d | 2025-11-20 | 8 | 356 | 12 | 246 | 58 | 1948 |
+| last720d | 2024-11-25 | 16 | 748 | 16 | 666 | 125 | 4121 |
 
 ## Release 资产
 
@@ -86,7 +86,7 @@ x install xmake
 | [xmake-master.win32.zip](https://github.com/xmake-io/xmake/releases/download/v3.1.2/xmake-master.win32.zip) | 3.8 MiB | `native/win/x64` |
 | [xmake-master.win64.exe](https://github.com/xmake-io/xmake/releases/download/v3.1.2/xmake-master.win64.exe) | 3.9 MiB | `native/win/x64` |
 | [xmake-master.win64.zip](https://github.com/xmake-io/xmake/releases/download/v3.1.2/xmake-master.win64.zip) | 5.9 MiB | `native/win/x64` |
-| [xmake-master.zip](https://github.com/xmake-io/xmake/releases/download/v3.1.2/xmake-master.zip) | 5.8 MiB | `other` |
+| [xmake-master.zip](https://github.com/xmake-io/xmake/releases/download/v3.1.2/xmake-master.zip) | 5.9 MiB | `other` |
 | [xmake-v3.1.2.arm64.exe](https://github.com/xmake-io/xmake/releases/download/v3.1.2/xmake-v3.1.2.arm64.exe) | 3.5 MiB | `other` |
 | [xmake-v3.1.2.arm64.sha256](https://github.com/xmake-io/xmake/releases/download/v3.1.2/xmake-v3.1.2.arm64.sha256) | 76 B | `other` |
 | [xmake-v3.1.2.arm64.zip](https://github.com/xmake-io/xmake/releases/download/v3.1.2/xmake-v3.1.2.arm64.zip) | 5.7 MiB | `other` |
@@ -109,4 +109,4 @@ xmake 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261114.yml` · 2026-11-14T08:11:34Z._
+_数据快照: `data/card/261115.yml` · 2026-11-15T08:03:03Z._
