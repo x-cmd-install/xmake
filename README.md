@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.1.2` (2026-10-16)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-18
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 12,302 · **Forks**: 965 · **Open issues**: 4,107 · **Contributors**: 279
+- **Stars**: 12,305 · **Forks**: 967 · **Open issues**: 4,109 · **Contributors**: 280
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 2060 · **Open PRs**: 13 · **Closed issues**: 3855 · **Open issues**: 252 · **Commits**: 19079
+- **Releases**: 92 · **Merged PRs**: 2061 · **Open PRs**: 14 · **Closed issues**: 3855 · **Open issues**: 254 · **Commits**: 19081
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 28 | 1 | 11 | 2 | 71 |
-| last60d | 2026-09-17 | 1 | 61 | 5 | 22 | 8 | 155 |
-| 90d | 2026-08-18 | 2 | 85 | 5 | 33 | 16 | 233 |
-| last180d | 2026-05-20 | 3 | 156 | 8 | 83 | 26 | 530 |
-| 360d | 2025-11-21 | 8 | 357 | 9 | 248 | 53 | 1955 |
-| last720d | 2024-11-26 | 16 | 747 | 13 | 670 | 120 | 4120 |
+| 30d | 2026-10-20 | 0 | 27 | 2 | 9 | 4 | 73 |
+| last60d | 2026-09-20 | 1 | 58 | 6 | 18 | 8 | 157 |
+| 90d | 2026-08-21 | 2 | 81 | 6 | 33 | 16 | 235 |
+| last180d | 2026-05-23 | 3 | 156 | 9 | 80 | 28 | 532 |
+| 360d | 2025-11-24 | 8 | 355 | 10 | 245 | 55 | 1957 |
+| last720d | 2024-11-29 | 16 | 743 | 14 | 664 | 121 | 4099 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for xmake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:23:25Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:55:57Z._
